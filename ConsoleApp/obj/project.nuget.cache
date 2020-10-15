@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5YHjAH3IajVNlSJQvxFMQyHd4JxoVvXVLELlIDIZVO0wzvRYMDjHRbgRVxhf6zV6W4GGlWbN15BBVYvu/0huQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\testing\\blocksdk\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chandimal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

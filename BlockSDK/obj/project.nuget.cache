@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbBZAjU8Raq7YLjxH05U1emQa4eA4EPozfJJXb1I9kw+Y/3b8Ckp+R0gU4VzFSKT8bJKnpsoPJy95+aIPnUB1g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\testing\\blocksdk\\BlockSDK\\BlockSDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chandimal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chandimal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\chandimal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

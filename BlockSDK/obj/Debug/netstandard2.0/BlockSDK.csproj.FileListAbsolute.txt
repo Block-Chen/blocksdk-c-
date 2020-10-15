@@ -1,0 +1,9 @@
+D:\Projects\testing\blocksdk\BlockSDK\obj\Debug\netstandard2.0\BlockSDK.csprojAssemblyReference.cache
+D:\Projects\testing\blocksdk\BlockSDK\obj\Debug\netstandard2.0\BlockSDK.AssemblyInfoInputs.cache
+D:\Projects\testing\blocksdk\BlockSDK\obj\Debug\netstandard2.0\BlockSDK.AssemblyInfo.cs
+D:\Projects\testing\blocksdk\BlockSDK\obj\Debug\netstandard2.0\BlockSDK.csproj.CoreCompileInputs.cache
+D:\Projects\testing\blocksdk\BlockSDK\bin\Debug\netstandard2.0\BlockSDK.deps.json
+D:\Projects\testing\blocksdk\BlockSDK\bin\Debug\netstandard2.0\BlockSDK.dll
+D:\Projects\testing\blocksdk\BlockSDK\bin\Debug\netstandard2.0\BlockSDK.pdb
+D:\Projects\testing\blocksdk\BlockSDK\obj\Debug\netstandard2.0\BlockSDK.dll
+D:\Projects\testing\blocksdk\BlockSDK\obj\Debug\netstandard2.0\BlockSDK.pdb
